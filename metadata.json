@@ -1,0 +1,9 @@
+{
+  "name": "Kayya21 Creative Studio",
+  "description": "A comprehensive AI creative suite powered by Gemini models for image/video generation, real-time voice conversations, search/maps grounding, and advanced multimodal analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
